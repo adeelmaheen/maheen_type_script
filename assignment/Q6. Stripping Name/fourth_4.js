@@ -1,0 +1,12 @@
+var person_name = "\n\t QUAID-E-AZAM \t\n";
+var person_name1 = "\n\t ALLAMA IQBAL \t\n";
+var person_name2 = "\n\t MUHAMMAD ARIF \t\n";
+console.log(person_name);
+console.log(person_name1);
+console.log(person_name2);
+var strip = person_name.trim();
+var strip1 = person_name1.trim();
+var strip2 = person_name2.trim();
+console.log(strip);
+console.log(strip1);
+console.log(strip2);
